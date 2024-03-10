@@ -1,5 +1,5 @@
 # Pancasila
-Dapat dipergunakan secara gratis dan diperlakukan sebagaimana [MIT License](https://opensource.org/license/mit/).  
+Dapat dipergunakan secara gratis dengan lisensi [MIT](https://opensource.org/license/mit/).  
 Gambar diambil dari [Wikipedia](https://id.wikipedia.org/wiki/Pancasila) yang berada pada [Domain publik](https://id.wikipedia.org/wiki/Domain_publik).
 
 |img|Theme|Link|
